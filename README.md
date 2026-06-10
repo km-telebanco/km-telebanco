@@ -1,4 +1,4 @@
-name is Kent, Kent Telebanco
+Im Kent, Kent Michael Telebanco
 ===============================
 
 Full Stack Developer
