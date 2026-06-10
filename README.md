@@ -14,11 +14,13 @@
 - **[eKAKA](https://git.dxform.ph/dxform/sabong)** — Gaming Platform  
   - Interactive real-time gameplay, tournament management
  
-## 🚀 Past Projects
+## 📁 Past Projects
 - **Jetpac Global** — PH Dev for Travel eSIM 
-- **LMS** — Learning Management System  
+- **LMS** — Learning Management System
+- **AIcquire** - Employment matching and HR management
 - **Bookify** - AI Book Management
 - **Super Shuttle**
+- **Kaayuhan**
 - **DA**
 ---
 
