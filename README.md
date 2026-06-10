@@ -1,10 +1,10 @@
-Hi 👋 My name is Kent Telebanco
+name is Kent, Kent Telebanco
 ===============================
 
 Full Stack Developer
 --------------------
 
-FE dev who loves making things look good and work great.</br> 
+<b>FE dev</b> who loves making things look good and work great.</br> 
 A bit of backend too, but UI/UX is where my heart is at.</br> 
 2 years in, still learning and having fun.
 
