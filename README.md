@@ -1,4 +1,4 @@
-Im Kent, Kent Michael Telebanco
+Kent Michael Telebanco
 ===============================
 
 Full Stack Developer
