@@ -3,7 +3,7 @@
 ## Full Stack Developer
 
 > FE Dev who loves making things look good and work great. A bit of backend too, but UI/UX is where my heart is at.</br>
-> 2 years in, still learning and having fun.
+> 3 years in, still learning and having fun.
 
 ---
 
